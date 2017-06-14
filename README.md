@@ -12,7 +12,6 @@ $ python detect.py
 
 == Demo ==
 
-<img src="./images/first.png"  >
+![Ornek gorsel](./images/1.png)
 
-
-<img src="./images/first.png"  >
+![Ornek gorsel2](./images/2.png)
