@@ -6,13 +6,10 @@ import cv2
 #HOG Algorithm
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector( cv2.HOGDescriptor_getDefaultPeopleDetector() )
-cap = cv2.VideoCapture("pedestrians.mp4")
+cap = cv2.VideoCapture(0)
 # variables 
 c_punt=[244,0,0]
 n_peatons=0
-
-
-headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
 
 
 while(True):
