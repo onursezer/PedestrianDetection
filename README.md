@@ -1,4 +1,4 @@
-# PedestrianDetection
+# Pedestrian Detection
 
 This project counts the number of people detected on the image they have taken from the camera using the OpenCV library.
 
