@@ -1,7 +1,8 @@
 # PedestrianDetection
 
+This project counts the number of people detected on the image they have taken from the camera using the OpenCV library.
 
-Test
+### Test
 
 ```sh
 $ git clone https://github.com/onursezer/PedestrianDetection.git
@@ -10,8 +11,8 @@ $ python detect.py
 ```
 
 
-== Demo ==
+### == Demo ==
 
-![Ornek gorsel](./images/1.png)
+![gorsel](./images/1.png)
 
-![Ornek gorsel2](./images/2.png)
+![gorsel2](./images/2.png)
